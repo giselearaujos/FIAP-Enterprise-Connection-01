@@ -1,6 +1,6 @@
 # Atividade - Enterprise Connection – Fase 1
 
-[alt text](./assets/images/print.png)
+  <img src="./assets/images/print.png" width="350">
 
 ## Tecnologias Utilizadas:
 
