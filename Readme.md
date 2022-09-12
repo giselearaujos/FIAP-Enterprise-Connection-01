@@ -1,7 +1,5 @@
 # Atividade - Enterprise Connection – Fase 1
 
-  <img src="./assets/images/print.png" width="350">
-
 ## Tecnologias Utilizadas:
 
 - HTML5
